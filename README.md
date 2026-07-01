@@ -13,7 +13,7 @@ dopo aver creato un bot telegram con botfather, modificare `config.yaml` inseren
 telegram_bot_token: "metti_il_token_qui_senza_togliere_le_virgolette"
 ```
 
-avvia:
+avviare:
 
 ```bash
 python main.py
