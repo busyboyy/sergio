@@ -23,7 +23,7 @@ python main.py
 ## info
 ogni gruppo ha la propria catena di Markov salvata in `dati_bot/<chat_id>/total.json`<br>
 il livello di ""divertimento"" è salvato in `dati_bot/fun_levels.json`, nel json ci sarà poi l'id del gruppo ed il suo relativo valore<br>
-il ""divertimento"" non è nient'altro che una possibilità del bot, in percentuale, di rispondere ad un messaggio inviato nel gruppo
+il ""divertimento"" non è nient'altro che la possibilità del bot, in decimi, di rispondere ad un messaggio inviato nel gruppo
 
 
 ## comandi (limitati ai soli admin)
