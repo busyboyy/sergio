@@ -30,8 +30,8 @@ il ""divertimento"" non è nient'altro che la probabilità del bot, in decimi, d
 
 | comando | a cosa serve |
 |---|---|
-| `/fun` | mosta il livello di ""divertimento"" corrente (da 1 a 10) |
-| `/fun N` | imposta il livello a N, dove N è un numero intero da 1 a 10 |
+| `/fun` | mosta il divertimento corrente (da 1 a 10) |
+| `/fun N` | imposta il divertimento a N, con N numero intero da 1 a 10 |
 | `/deletemessage` (rispondendo a un msg) | rimuove quel messaggio dal dizionario del gruppo |
 | `/toglimess` | alias di `/deletemessage` |
 
